@@ -2,14 +2,10 @@
 
 ## General Data Loading with Redux
 
-### <code> Component gets rendered onto the screen </code>
-
+<code> Component gets rendered onto the screen </code>
 <br />
-
-### <code> Component's 'componentDidMount' lifecycle method gets called </code> <br />
-
-### <code> We call action creator from 'componentDidMount'</code>
-
+<code> Component's 'componentDidMount' lifecycle method gets called </code> <br />
+<code> We call action creator from 'componentDidMount'</code>
 <br />
 <code> Action creator runs code to make an API request </code>
 <br />
